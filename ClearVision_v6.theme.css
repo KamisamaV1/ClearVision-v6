@@ -153,5 +153,5 @@
     background-color: rgb(39 128 230 / 21%);
 }
 .theme-dark #vc-spotify-player {
-    background: none;
+    background: none !important;
 }
