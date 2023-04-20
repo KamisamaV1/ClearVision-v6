@@ -158,3 +158,6 @@
 .container-YkUktl>.flex-3BkGQD {
     background: none;
 }
+.container-YkUktl>.flex-3BkGQD>:nth-child(n+2):before {
+    display: none;
+}
