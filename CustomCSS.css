@@ -1,0 +1,25 @@
+ /*CustomCSS*/
+  .channelTextArea-1VQBuV:focus-within {
+    box-shadow: none;
+}
+.channelTextArea-1VQBuV {
+    background: transparent;
+}
+ .theme-dark .container-YkUktl:before {
+   display: none;
+}
+.theme-dark .container-YkUktl:after {
+   display: none;
+}
+.mentioned-Tre-dv {
+    background-color: rgb(39 128 230 / 21%);
+}
+.theme-dark #vc-spotify-player {
+    background: none !important;
+}
+.container-YkUktl>.flex-3BkGQD {
+    background: none;
+}
+.container-YkUktl>.flex-3BkGQD>:nth-child(n+2):before {
+    display: none;
+}
