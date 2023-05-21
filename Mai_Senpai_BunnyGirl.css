@@ -13,13 +13,15 @@
 /* IMPORT CSS */
 @import url(https://clearvision.github.io/ClearVision-v6/main.css);
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
-@import url("https://raw.githubusercontent.com/KamisamaV1/ClearVision-v6/master/CustomCSS.css");
+/*@import url("https://raw.githubusercontent.com/KamisamaV1/ClearVision-v6/master/CustomCSS.css");*/
 
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #7c00ff; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #4d009f; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --numerical-main: 124, 0, 255;
+  --numerical-hover: 77, 0, 159;
+  --main-color: rgb(124, 0, 255); /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: rgb(77, 0, 159); /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
