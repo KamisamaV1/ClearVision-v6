@@ -12,7 +12,7 @@
    display: none;
 }
 #vc-spotify-player {
-    border-bottom: 0px;
+    border-bottom: 0px !important;
 }
 .mentioned-Tre-dv {
     background-color: rgb(var(--numerical-main), 0.2) !important;
