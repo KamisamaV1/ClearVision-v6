@@ -27,6 +27,11 @@
 .mentioned-Tre-dv {
     background-color: rgb(var(--numerical-main), 0.2) !important;
 }
+/*Remove Gift Icon*/
+.container__5eb17 {
+    display: none;
+}
+/*IDK what this does but it does something*/
 .container-YkUktl>.flex-3BkGQD {
     background: none;
 }
