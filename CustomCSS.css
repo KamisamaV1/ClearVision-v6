@@ -30,6 +30,9 @@
 .theme-dark #vc-spotify-player {
     background: none !important;
 }
+.mini_d6d84c .grabber_d2868c {
+margin-top: 5px;
+}
 /*MentionColor*/
 .mentioned-Tre-dv {
     background-color: rgb(var(--numerical-main), 0.2) !important;
