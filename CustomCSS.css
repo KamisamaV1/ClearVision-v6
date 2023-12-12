@@ -1,5 +1,9 @@
  /*CustomCSS*/
-/*ChatBox Transparency*/
+/*Activity Button Shading*/
+.activityPanel__22355 .actions__9256d {
+    background: none;
+}
+/*ChatBox Shading*/
 .channelTextArea__56a36:focus-within {
     box-shadow: none;
 }
@@ -12,6 +16,9 @@
 }
 .theme-dark .container_ca50b9:after {
    display: none;
+}
+.theme-dark .container_ca50b9 {
+    margin-bottom: 0px;
 }
 /*SpotifyPluginFixes*/
 #vc-spotify-player {
@@ -37,9 +44,6 @@
 }
 .container-YkUktl>.flex-3BkGQD>:nth-child(n+2):before {
     display: none;
-}
-.activityPanel__22355 .actions__9256d {
-    background: none;
 }
 .header-3OsQeK {
     box-shadow: none;
