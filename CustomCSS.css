@@ -1,24 +1,31 @@
  /*CustomCSS*/
-  .channelTextArea-1VQBuV:focus-within {
+/*ChatBox Transparency*/
+.channelTextArea__56a36:focus-within {
     box-shadow: none;
 }
-.channelTextArea-1VQBuV {
+.channelTextArea__56a36 {
     background: transparent;
 }
-.theme-dark .container-1CH86i:before {
+/*Clearvision Watermark Remove*/
+.theme-dark .container_ca50b9:before {
    display: none;
 }
-.theme-dark .container-1CH86i:after {
+.theme-dark .container_ca50b9:after {
    display: none;
 }
+/*SpotifyPluginFixes*/
 #vc-spotify-player {
     border-bottom: 0px !important;
 }
-.mentioned-Tre-dv {
-    background-color: rgb(var(--numerical-main), 0.2) !important;
+#vc-spotify-player {
+    border-top: none;
 }
 .theme-dark #vc-spotify-player {
     background: none !important;
+}
+/*MentionColor*/
+.mentioned-Tre-dv {
+    background-color: rgb(var(--numerical-main), 0.2) !important;
 }
 .container-YkUktl>.flex-3BkGQD {
     background: none;
@@ -26,7 +33,7 @@
 .container-YkUktl>.flex-3BkGQD>:nth-child(n+2):before {
     display: none;
 }
-.activityPanel-9icbyU .actions-zk2vB_ {
+.activityPanel__22355 .actions__9256d {
     background: none;
 }
 .header-3OsQeK {
