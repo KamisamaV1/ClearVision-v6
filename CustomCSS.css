@@ -41,6 +41,11 @@ margin-top: 5px;
 .container__5eb17 {
     display: none;
 }
+/*Fix Soundboard Button background becoming white*/
+.button_b82d53.buttonColor__7bad9.buttonActive_ae686f {
+    background-color: var(--main-color);
+    color: white;
+}
 /*IDK what this does but it does something*/
 .container-YkUktl>.flex-3BkGQD {
     background: none;
