@@ -1,4 +1,8 @@
  /*CustomCSS*/
+/*Screenshare transparent icon*/
+.activityPanel_b73e7a .actions_d57dc4 {
+    background: transparent;
+}
 /*Activity Button Shading*/
 .activityPanel__22355 .actions__9256d {
     background: none;
