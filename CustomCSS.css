@@ -4,14 +4,14 @@
     background: transparent;
 }
 /*Activity Button Shading*/
-.activityPanel__22355 .actions__9256d {
+.activityPanel_a4d4d9 .actions_bf1a22 {
     background: none;
 }
 /*ChatBox Shading*/
-.channelTextArea__648e5:focus-within {
+.channelTextArea_d0696b:focus-within {
     box-shadow: none;
 }
-.channelTextArea__648e5 {
+.channelTextArea_d0696b {
     background: transparent;
 }
 /*Clearvision Watermark Remove*/
@@ -38,7 +38,7 @@
 margin-top: 5px;
 }
 /*MentionColor*/
-.mentioned_fa6fd2 {
+.mentioned_d5deea {
     background-color: rgb(var(--numerical-main), 0.2) !important;
 }
 /*Remove Gift Icon*/
