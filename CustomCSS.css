@@ -8,11 +8,15 @@
     background: none;
 }
 /*ChatBox Shading*/
-.channelTextArea_d0696b:focus-within {
+.channelTextArea_bdf0de:focus-within {
     box-shadow: none;
 }
-.channelTextArea_d0696b {
+.channelTextArea_bdf0de {
     background: transparent;
+}
+/*Apps button Shading*/
+.button_df39bd {
+    background-color: transparent;
 }
 /*Clearvision Watermark Remove*/
 .theme-dark .container_ca50b9:before {
