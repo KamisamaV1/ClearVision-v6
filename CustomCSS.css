@@ -4,15 +4,15 @@
     background: transparent;
 }
 /*Activity Button Shading*/
-.activityPanel_a4d4d9 .actions_bf1a22 {
-    background: none;
+.button_e6e74f {
+    background-color: transparent;
 }
 /*ChatBox Shading*/
-.channelTextArea_bdf0de:focus-within {
-    box-shadow: none;
-}
-.channelTextArea_bdf0de {
+.scrollableContainer__74017 {
     background: transparent;
+}
+.scrollableContainer__74017:focus-within {
+    box-shadow: none;
 }
 /*Apps button Shading*/
 .button_df39bd {
