@@ -8,10 +8,10 @@
     background-color: transparent;
 }
 /*ChatBox Shading*/
-.scrollableContainer__74017 {
+.channelTextArea__74017 {
     background: transparent;
 }
-.scrollableContainer__74017:focus-within {
+.channelTextArea__74017:focus-within {
     box-shadow: none;
 }
 /*Apps button Shading*/
